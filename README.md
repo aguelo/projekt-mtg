@@ -1,4 +1,2 @@
 # projekt-mtg
-Project repo for course "Mobila tjänster och gränssnitt" - VT16
-
-Bobby test comment
+Project repository for course "Mobila tjänster och gränssnitt" - VT16
